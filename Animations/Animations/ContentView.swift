@@ -15,7 +15,10 @@ struct ContentView: View {
         print(animationAmount)
         
         return VStack {
-            Stepper("Scale amount", value: $animationAmount.animation(), in: 1...10)
+            Stepper("Scale amount", value: $animationAmount.animation(
+                .easeInOut(duration: 1)
+                    .repeatCount(3, autoreverses: true)
+            ), in: 1...10)
             
             Spacer()
             
