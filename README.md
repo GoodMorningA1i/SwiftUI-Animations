@@ -2,9 +2,11 @@
 
 ## About the Project
 
-Description
+[Description]
 
-This project covers ...
+Technique project on animations!
+
+This project covers implicit animations, customizing animations, animation bindings, explicit animations, ...
 
 ## Demos
 
