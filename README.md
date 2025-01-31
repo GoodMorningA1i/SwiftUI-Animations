@@ -6,9 +6,31 @@ Description
 
 This project covers ...
 
-## Diagrams
+## Demos
 
-<img src="https://github.com/user-attachments/assets/034c8ed3-d3a0-4973-920c-a7b24fb1f6d3" width="400">
+
+### Part 1 
+
+Section 1
+
+https://github.com/user-attachments/assets/95914a17-2d2e-4a82-ad6d-475cf29cf727
+
+Section 2
+
+https://github.com/user-attachments/assets/e25442fc-ea04-4215-8629-ed4cebb21d62
+
+Section 3
+
+https://github.com/user-attachments/assets/70ba758d-58db-4731-836a-26aa8bd9bec3
+
+Section 4
+
+https://github.com/user-attachments/assets/a2a51bac-091e-4c41-b60b-b88b0735a740
+
+
+### Part 2
+
+TBD
 
 ### Built With
 
