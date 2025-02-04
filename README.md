@@ -6,7 +6,8 @@
 
 Technique project on animations!
 
-This project covers implicit animations, customizing animations, animation bindings, explicit animations, ...
+This project covers implicit animations, customizing animations, animation bindings, explicit animations, ... 
+Next up are transitions.
 
 ## Demos
 
