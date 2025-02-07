@@ -33,6 +33,10 @@ https://github.com/user-attachments/assets/a2a51bac-091e-4c41-b60b-b88b0735a740
 
 ### Part 2
 
+Section 1
+
+https://github.com/user-attachments/assets/1bfa5ed8-ab3d-4535-9b41-06f57cd77107
+
 TBD
 
 ### Built With
