@@ -41,6 +41,10 @@ Section 2
 
 https://github.com/user-attachments/assets/5d55d07d-11ca-438b-b236-302c46523a36
 
+Section 3
+
+https://github.com/user-attachments/assets/65e0bfb4-da11-4173-8dde-c45563a15699
+
 TBD
 
 ### Built With
