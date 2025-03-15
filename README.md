@@ -2,8 +2,6 @@
 
 ## About the Project
 
-[Description]
-
 Technique project on animations!
 
 This project covers implicit animations, customizing animations, animation bindings, explicit animations, multiple animations, gesture animations, transitions, and more.
