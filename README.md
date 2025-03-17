@@ -6,8 +6,6 @@ Technique project on animations!
 
 This project covers implicit animations, customizing animations, animation bindings, explicit animations, multiple animations, gesture animations, transitions, and more.
 
-Check out Part 3 here: https://github.com/GoodMorningA1i/GuessTheFlagWithAnimations
-
 ## Demos
 
 
@@ -78,7 +76,7 @@ You should replace `your_username` and `project_name` respectively.
 
 ## Acknowledgements
 
-This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI. Part 3 introduces challenges where I made additions with my own code.
+This project is from a tutorial series provided by Hacking With Swift. The tutorial series is called 100 Days of SwiftUI.
 
 - Part 1: https://www.hackingwithswift.com/100/swiftui/32
 - Part 2: https://www.hackingwithswift.com/100/swiftui/33
